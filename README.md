@@ -1,5 +1,3 @@
-# Data-Structures-and-Algorithms
-Some of the DSA practical lab session programs I learnt and implemented
 <h1>Data Structures and Algorithms Practical Labs</h1>
 
 Hey Friend! 👋 Welcome to my Data Structures and Algorithms (DSA) Practical Labs repository. Here, you'll find the programs and solutions I've worked on during my DSA practical sessions. Feel free to explore, learn, and contribute!
